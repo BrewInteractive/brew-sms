@@ -1,0 +1,24 @@
+{
+    "name": "BrewInteractive/brew-sms",
+    "type": "library",
+    "description": "Brew SMS is simple library for sending SMS'.",
+    "keywords": ["sms", "short message service", "netgsm"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gokcen Ogutcu"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {},
+    "suggest": {},
+    "autoload": {
+        "psr-4": {
+            "Sms\\": "src/Brew/Sms/"
+        }
+    },
+    "autoload-dev": {},
+    "extra": {}
+}
