@@ -1,5 +1,5 @@
 {
-    "name": "BrewInteractive/brew-sms",
+    "name": "brew-interactive/brew-sms",
     "type": "library",
     "description": "Brew SMS is simple library for sending SMS'.",
     "keywords": ["sms", "short message service", "netgsm"],
